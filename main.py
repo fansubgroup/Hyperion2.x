@@ -81,7 +81,7 @@ class Dialog(QtGui.QWidget,Uidlg.Ui_Form):
             if self.appid != '' and self.key != '':
                 #print "all is ok!"
                 baidu.split_txt(str(path.toUtf8()))
-                baidu.translation_txt(self.appid.strip(),self.key.strip(),self.src,self.dst)
+                baidu.httpTranslate(self.appid.strip(),self.key.strip(),self.src,self.dst)
                 baidu.join_txt()
                 baidu.remove_txt()
             else:
