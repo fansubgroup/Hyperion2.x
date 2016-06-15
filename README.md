@@ -1,13 +1,127 @@
 # About
 Hyperion,which is a translation tool based on Baidu API.
 
-## The current version 2.0 is based on the baidu provided by the API implementation.
-Hyperion2.0 based on the PyQt 4.10.4,mainly used for the subtitle group of the translation of the.Srt for the suffix letter file.
-Users need to go to http://api.fanyi.baidu.com/api/trans/product/index to apply for a ID APP and key and enter the software.
-At present (2016.2.1-3.31) period of time is 6 million per month, after 2 million words each month.
-Using a large amount of ID APP can be purchased.
+#### You can enter the source language and target language according to your needs
 
-# Pay Attention
-## Hyperion2.x series will focus on the interface type operation, suitable for students to use no basis.
-Developers should pay particular attention to this point.
+#### This coeerspondence table is here
+
+
+<table>
+<tr>
+      <td>Symbol</td>
+      <td>Significance</td>
+   </tr>
+   <tr>
+      <td>auto </td>
+      <td>automatic detection</td>
+   </tr>
+   <tr>
+      <td>zh </td>
+      <td>Chinese</td>
+   </tr>
+   <tr>
+      <td>en </td>
+      <td>English</td>
+   </tr>
+   <tr>
+      <td>yue </td>
+      <td>Cantonese</td>
+   </tr>
+   <tr>
+      <td>wyw </td>
+      <td>Classical Chinese</td>
+   </tr>
+   <tr>
+      <td>jp </td>
+      <td>Japanese</td>
+   </tr>
+   <tr>
+      <td>kor </td>
+      <td>Korean</td>
+   </tr>
+   <tr>
+      <td>fra </td>
+      <td>French</td>
+   </tr>
+   <tr>
+      <td>spa </td>
+      <td>Spain</td>
+   </tr>
+   <tr>
+      <td>th </td>
+      <td>Thai</td>
+   </tr>
+   <tr>
+      <td>ara </td>
+      <td>Arabic</td>
+   </tr>
+   <tr>
+      <td>ru </td>
+      <td>Russian</td>
+   </tr>
+   <tr>
+      <td>pt </td>
+      <td>Portuguese</td>
+   </tr>
+   <tr>
+      <td>de </td>
+      <td>German</td>
+   </tr>
+   <tr>
+      <td>it </td>
+      <td>Italian</td>
+   </tr>
+   <tr>
+      <td>el </td>
+      <td>Greek</td>
+   </tr>
+   <tr>
+      <td>nl </td>
+      <td>Dutch</td>
+   </tr>
+   <tr>
+      <td>pl </td>
+      <td>Polish</td>
+   </tr>
+   <tr>
+      <td>bul </td>
+      <td>Bulgarian</td>
+   </tr>
+   <tr>
+      <td>est </td>
+      <td>Estonia Language</td>
+   </tr>
+   <tr>
+      <td>dan </td>
+      <td>Danish</td>
+   </tr>
+   <tr>
+      <td>fin </td>
+      <td>Finnish</td>
+   </tr>
+   <tr>
+      <td>cs </td>
+      <td>Czech</td>
+   </tr>
+   <tr>
+      <td>rom </td>
+      <td>Romanian</td>
+   </tr>
+   <tr>
+      <td>slo </td>
+      <td>Slovenia Language</td>
+   </tr>
+   <tr>
+      <td>swe </td>
+      <td>Swedish</td>
+   </tr>
+   <tr>
+      <td>hu </td>
+      <td>Hugarian language</td>
+   </tr>
+   <tr>
+      <td>cht </td>
+      <td>Traditional Chinese</td>
+   </tr>
+</table>
 
